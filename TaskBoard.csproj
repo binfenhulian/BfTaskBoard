@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Product>BfTaskBoard</Product>
+    <AssemblyName>BfTaskBoard</AssemblyName>
+    <Version>1.0.0</Version>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="MaterialSkin.2" Version="2.3.1" />
+    <PackageReference Include="EPPlus" Version="7.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="TestProgram.cs" />
+    <Compile Remove="test*.cs" />
+  </ItemGroup>
+
+</Project>
