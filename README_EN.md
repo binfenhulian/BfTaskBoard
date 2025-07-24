@@ -125,7 +125,7 @@ A powerful Windows desktop task management and data table application with suppo
 ### Build Steps
 1. Clone repository
 ```bash
-git clone https://github.com/yourusername/BfTaskBoard.git
+git clone https://github.com/binfenhulian/BfTaskBoard.git
 cd BfTaskBoard
 ```
 
@@ -189,8 +189,8 @@ Issues and Pull Requests are welcome!
 
 ## Contact
 
-- Project Homepage: [https://github.com/yourusername/BfTaskBoard](https://github.com/yourusername/BfTaskBoard)
-- Bug Reports: [Issues](https://github.com/yourusername/BfTaskBoard/issues)
+- Project Homepage: [https://github.com/binfenhulian/BfTaskBoard](https://github.com/binfenhulian/BfTaskBoard)
+- Bug Reports: [Issues](https://github.com/binfenhulian/BfTaskBoard/issues)
 
 ## Acknowledgments
 

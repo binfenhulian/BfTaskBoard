@@ -125,7 +125,7 @@
 ### 构建步骤
 1. 克隆仓库
 ```bash
-git clone https://github.com/yourusername/BfTaskBoard.git
+git clone https://github.com/binfenhulian/BfTaskBoard.git
 cd BfTaskBoard
 ```
 
@@ -200,8 +200,8 @@ API密钥在使用AI建表功能时输入，程序会自动保存。
 
 ## 联系方式
 
-- 项目主页：[https://github.com/yourusername/BfTaskBoard](https://github.com/yourusername/BfTaskBoard)
-- Bug反馈：[Issues](https://github.com/yourusername/BfTaskBoard/issues)
+- 项目主页：[https://github.com/binfenhulian/BfTaskBoard](https://github.com/binfenhulian/BfTaskBoard)
+- Bug反馈：[Issues](https://github.com/binfenhulian/BfTaskBoard/issues)
 
 ## 致谢
 
